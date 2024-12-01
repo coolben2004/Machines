@@ -1,2 +1,8 @@
 Machice is atool to make our work easier
 we have the first class machines 
+types of machines include 
+hammer
+plier
+knife
+screw driver
+piano 
